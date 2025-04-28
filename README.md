@@ -1,7 +1,7 @@
 # 💰 Personal Expense Tracker
 
-![Spending Pie Chart](![Top_5_category_by_spending](https://github.com/user-attachments/assets/6f49ebe1-22a0-4007-9d2c-db1f614bb4e1)
-)
+![Spending Pie Chart](https://github.com/user-attachments/assets/a9e46936-a79b-4756-969e-55eec2d721de)
+
 
 A Python project to analyze my spending habits, detect anomalies, and send budget alerts via SMS.
 
@@ -11,7 +11,7 @@ A Python project to analyze my spending habits, detect anomalies, and send budge
 - Twilio API (for SMS alerts)
 
 ## 📌 Key Features
-- Cleaned and categorized 6 months of transaction data.
+- Cleaned and categorized 3 months of transaction data.
 - Visualized spending trends by category/month.
 - **SMS Alerts**: Integrated Twilio to notify overspending (proof of concept).
 
